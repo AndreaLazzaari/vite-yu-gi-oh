@@ -1,5 +1,7 @@
 <template lang="">
-  <header></header>
+  <header>
+    Ciao
+  </header>
 </template>
 
 <script>
@@ -12,7 +14,7 @@ export default {
 @use '../styles/general.scss' as *;
 
 header{
-    height: 80px;
+    height: 60px;
     width: 100%;
     background-color: aqua;
 }
